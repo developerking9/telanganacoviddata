@@ -1,14 +1,19 @@
 {
   "TelanganaCaseReport": [
     {
-      "id": 1,
-      "Name": "Telangana State",
-      "TotalCases": "65000",
-      "TotalDeaths": "950",
-      "TotalRecovered": "15000",
-      "TotalInc": "4700",
-      "TotalDec": "0",
-      "Condition": "Need to improve"
+         "id": 1,
+      "Name": "India (महाराष्ट्र)",
+      "TotalCasesmh": "450000",
+      "TotalDeathsmh": "16000",
+      "TotalRecoveredmh": "280900",
+      "TotalCasesomh": "450K",
+      "TotalDeathswmh": "16K",
+      "TotalRecoveredrmh": "280K",
+      "TotalIncmh": "52.12K+",
+      "TotalDecmh": "775+",
+      "TotalRecmh": "32.55K+",
+      "Conditionmh": "Need to improve"
+
     }
   ]
 }
