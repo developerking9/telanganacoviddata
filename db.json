@@ -1,18 +1,19 @@
 {
   "TelanganaCaseReport": [
     {
-     "id": 1,
-      "Name": "India (इंडिया)",
-      "TotalCases": "66000",
-      "TotalDeaths": "540",
-      "TotalRecovered": "48000",
-      "TotalCaseso": "66K",
-      "TotalDeathsw": "540",
-      "TotalRecoveredr": "48K",
-      "TotalInc": "52.12K+",
-      "TotalDec": "775+",
-      "TotalRec": "32.55K+",
-      "Condition": "Need to improve"
+         "id": 1,
+      "Name": "India (తెలంగాణ)",
+      "TotalCasests": "450000",
+      "TotalDeathsts": "16000",
+      "TotalRecoveredts": "280900",
+      "TotalCasesots": "450K",
+      "TotalDeathswts": "16K",
+      "TotalRecoveredrts": "280K",
+      "TotalIncts": "52.12K+",
+      "TotalDects": "775+",
+      "TotalRects": "32.55K+",
+      "Conditionts": "Need to improve"
+
     }
   ]
 }
